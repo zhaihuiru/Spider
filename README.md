@@ -1,7 +1,7 @@
 # 🕸️ Spider 网络爬虫项目
 
 <div align="center">
-  <img src="word.jpg" alt="词云示例" width="400"/>
+  <img src="word.jpg" alt="词云示例" width="800"/>
 </div>
 <div align="center">
 
