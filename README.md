@@ -31,12 +31,11 @@ Spider 是一个多功能网络爬虫项目，主要用于爬取不同网站的�
 
 - **Python**：主要编程语言
 - **BeautifulSoup**：HTML解析库
-- **Requests/Urllib**：HTTP请求库
+- **Requests**：HTTP请求库
 - **正则表达式**：数据提取
 - **Matplotlib**：数据可视化
 - **WordCloud**：词云生成
-- **SQLite**：数据库存储
-- **xlwt/openpyxl**：Excel文件操作
+- **xlwt**：Excel文件操作
 
 ## 📥 安装说明
 
